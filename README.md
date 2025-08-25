@@ -32,6 +32,10 @@ Instead, this repo provides:
 The raw smart meter dataset from NIE Networks is confidential but can be requested from NIE Networks on a need basis. NDA agreements must be signed. 
 
 ## 📬 Contact
-Rahul Sajith Pillai  
-PhD Researcher, Ulster University  
-[LinkedIn](https://linkedin.com/in/rahul-sajith-p-02a7b6a3)
+Rahul Sajith Pillai
+
+PhD Researcher – Ulster University
+
+W: pillai-rs@ulster.ac.uk
+P: rahulspillai047@gmail.com
+[LinkedIn](linkedin.com/in/rahul-sajith-p-02a7b6a3)
